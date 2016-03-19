@@ -1,5 +1,8 @@
+name: ColinWRoy
+favicon: null
+layout_spectrum: 0.7007169
+typography_spectrum: 0.04141565482132137
 title: ColinWRoy
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3512545
-  brandStrength: 0.7580958311446011
-  lightness: 0.1935484
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  brandStrength: 0.7580958311446011
+  lightness: 0.1935484
+  saturation: 0.3512545
   rhythmicContrast: 0.4516129
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: ColinWRoy
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.04141565482132137
-layout_spectrum: 0.7007169
+purpose: []
