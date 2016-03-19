@@ -1,6 +1,6 @@
 name: ColinWRoy
 favicon: null
-layout_spectrum: 0.7007169
+layout_spectrum: 0.44851
 typography_spectrum: 0.04141565482132137
 title: ColinWRoy
 collections:
@@ -34,7 +34,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.7580958311446011
+  brandStrength: 0.75
   lightness: 0.1935484
   saturation: 0.3512545
   rhythmicContrast: 0.4516129
