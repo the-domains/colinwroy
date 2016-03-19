@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: My first post on the grid...my favourite city.
-datePublished: '2016-03-19T14:56:36.279Z'
-dateModified: '2016-03-19T14:56:36.003Z'
+description: "Hello Grid! \_ ...my favourite city."
+datePublished: '2016-03-19T22:50:14.684Z'
+dateModified: '2016-03-19T22:47:36.759Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-my-first-post-on-the-grid.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: my-first-post-on-the-grid/index.html
 _type: Article
 
